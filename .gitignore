@@ -1,0 +1,15 @@
+# 忽略 Windows 二进制
+.dll
+.lib
+.pdb
+.exe
+
+# 忽略 Linux 二进制
+.so
+.a
+.out
+
+# 忽略临时文件夹
+bin/
+lib/
+build*/
