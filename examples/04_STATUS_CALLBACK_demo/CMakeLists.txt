@@ -1,0 +1,1 @@
+add_eri_example(eri_status_callback_demo main.cpp)
